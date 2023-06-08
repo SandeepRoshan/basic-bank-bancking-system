@@ -9,7 +9,7 @@ $conn= mysqli_connect($servername,$username,$password);
 if(!$conn){
     die("Sorry we failed to connect:". mysqli_connect_error());
 }else{
-    echo "Conection was esatablished succesfully. <br>";
+    echo "Conection was esatablished Succesfully. <br>";
 }
 
 //Creating database bank

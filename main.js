@@ -16,7 +16,7 @@ document.querySelector("#submit").addEventListener("click", function(event) {
         event.preventDefault();
     }
     else{ //Finally asking user to continue if yes then form submit else form wil not submitted 
-    const value = confirm("Are you sure you want to continue?");
+    const value = confirm("Are you sure you want to Continue?");
     if(!value)
     event.preventDefault();
     }

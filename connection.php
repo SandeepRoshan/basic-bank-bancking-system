@@ -7,7 +7,7 @@ $databse ="bank";
 $conn= mysqli_connect($servername,$username,$password,$databse);
 
 if(!$conn){
-    die("Sorry we failed to connect:". mysqli_connect_error());
+    die("Sorry We failed to connect:". mysqli_connect_error());
 }
 
 function check_name($from,$to,$amount){

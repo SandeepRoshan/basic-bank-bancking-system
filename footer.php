@@ -5,6 +5,6 @@
           <li class="nav-item"><a href="customer.php" class="nav-link px-2 text-muted">View all Customers</a></li>
           <li class="nav-item"><a href="index.php#About" class="nav-link px-2 text-muted">About</a></li>
         </ul>
-        <p class="text-center text-muted">© 2021 Money Bank, Inc</p>
+        <p class="text-center text-muted">© 2023 Money Bank, Inc</p>
       </footer>
       <!-- footer part end -->

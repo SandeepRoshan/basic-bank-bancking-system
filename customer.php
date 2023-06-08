@@ -10,6 +10,7 @@
     <title>Customer Details</title>
 </head>
 <body>
+	
 
     <!-- header with connection and sql code -->
 <?php require_once './include/header.php';

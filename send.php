@@ -61,6 +61,7 @@ if(!empty($_GET["name"]) )
 </form>
 </div>
 
+
      <!-- footer  -->
   <?php require_once './include/footer.php' ?>  
 </body>
